@@ -1,0 +1,17 @@
+.pp {
+    background: center / cover url(https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D158439036W10000H9424/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/dz-algerie-autocollant.jpg);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.pp-vert {
+    border: solid;
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    border-radius: 350px;
+    z-index: 1;
+    left: 150px;
+    bottom: 30px;
+    position: relative;
+}
